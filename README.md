@@ -1,6 +1,5 @@
 # Apply_Filters_in_Live_Webcam
 
-````markdown
 <h1 align="center" style="font-size: 2.8em; color: #2980b9;">📸 Real-Time Webcam Filter Application</h1>
 
 <p align="center">
